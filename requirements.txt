@@ -1,0 +1,10 @@
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-groq==0.2.1
+langchain-huggingface==0.1.2
+langchain-core==0.3.15
+faiss-cpu==1.8.0
+sentence-transformers==3.0.1
+gradio==4.42.0
+datasets==2.21.0
+python-dotenv==1.0.1
